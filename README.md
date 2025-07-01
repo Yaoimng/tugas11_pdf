@@ -56,6 +56,12 @@ Pembuatan PDF menggunakan library FPDF dengan implementasi sebagai berikut:
 
 ---
 
+## 📸 Tampilan Web
+
+![Sistem Laporan Siswa](https://github.com/user-attachments/assets/46c398f4-207d-49b9-a283-eb0b2a3880e0)
+
+---
+
 ## Catatan Pengembang
 Proyek ini dikembangkan sebagai tugas individu untuk mata kuliah Pemrograman Web. Implementasi ini adalah contoh sederhana yang bisa dikembangkan lebih lanjut dengan menambahkan fitur seperti:
 - Fitur edit dan hapus data siswa
